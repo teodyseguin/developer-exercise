@@ -2,7 +2,7 @@
 
 This is a simple and small program, written in NodeJS, that solves this following problem.
 
-1. ~~Sort the rows in ascending order by email address domain, then by last name.~~
+1. @TODO: ~~Sort the rows in ascending order by email address domain, then by last name.~~
 2. Omit rows where the State has a population of more than 10 Million people.
 3. For rows where the state capitol is Jacksonville, change the email address to "---@-.
 

@@ -1,8 +1,10 @@
 const fcsv = require('fast-csv');
 const fs = require('fs');
 const path = require('path');
+// I have created this json file, based on the information gathered here https://www.nationsonline.org/oneworld/US-states-population.htm
 const states = require('./states.json');
 
+// This will contain the new set of records for generating a new csv file.
 let newRecord = [];
 
 fs.createReadStream(path.resolve(__dirname, '.', 'contacts.csv'))

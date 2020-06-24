@@ -40,7 +40,7 @@ const createNewRow = row => {
  * @param {number} rowCount 
  */
 const generateNewFile = rowCount => {
-  console.log(`Parsed ${rowCount} rows`)
+  console.log(`Parsed ${rowCount} rows`);
   fcsv.writeToPath(path.resolve(__dirname, 'new-contacts.csv'), newRecord)
     .on('error', error => console.log('Something went wrong while trying to generate new-contacts.csv', error))
     .on('finish', () => console.log('new-contacts.csv has been successfully generated'));

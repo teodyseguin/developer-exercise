@@ -4,7 +4,7 @@
   "description": "A developer exercise example",
   "main": "index.js",
   "scripts": {
-    "start": ""
+    "start": "node index"
   },
   "repository": {
     "type": "git",

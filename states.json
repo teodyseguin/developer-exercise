@@ -1,0 +1,302 @@
+[
+  {
+     "state":"California",
+     "population":"39,145,000",
+     "capital":"Sacramento",
+     "largestCity":"Los Angeles"
+  },
+  {
+     "state":"Texas",
+     "population":"27,469,000",
+     "capital":"Austin",
+     "largestCity":"Houston"
+  },
+  {
+     "state":"Florida",
+     "population":"20,271,000",
+     "capital":"Tallahassee",
+     "largestCity":"Jacksonville"
+  },
+  {
+     "state":"New York",
+     "population":"19,796,000",
+     "capital":"Albany",
+     "largestCity":"New York City"
+  },
+  {
+     "state":"Illinois",
+     "population":"12,860,000",
+     "capital":"Springfield",
+     "largestCity":"Chicago"
+  },
+  {
+     "state":"Pennsylvania",
+     "population":"12,802,000",
+     "capital":"Harrisburg",
+     "largestCity":"Philadelphia"
+  },
+  {
+     "state":"Ohio",
+     "population":"11,613,000",
+     "capital":"Columbus",
+     "largestCity":"Columbus"
+  },
+  {
+     "state":"Georgia",
+     "population":"10,215,000",
+     "capital":"Atlanta",
+     "largestCity":"Atlanta"
+  },
+  {
+     "state":"North Carolina",
+     "population":"10,043,000",
+     "capital":"Raleigh",
+     "largestCity":"Charlotte"
+  },
+  {
+     "state":"Michigan",
+     "population":"9,922,000",
+     "capital":"Lansing",
+     "largestCity":"Detroit"
+  },
+  {
+     "state":"New Jersey",
+     "population":"8,958,000",
+     "capital":"Trenton",
+     "largestCity":"Newark"
+  },
+  {
+     "state":"Virginia",
+     "population":"8,383,000",
+     "capital":"Richmond",
+     "largestCity":"Virginia Beach"
+  },
+  {
+     "state":"Washington",
+     "population":"7,170,000",
+     "capital":"Olympia",
+     "largestCity":"Seattle"
+  },
+  {
+     "state":"Arizona",
+     "population":"6,828,000",
+     "capital":"Phoenix",
+     "largestCity":"Phoenix"
+  },
+  {
+     "state":"Massachusetts",
+     "population":"6,794,000",
+     "capital":"Boston",
+     "largestCity":"Boston"
+  },
+  {
+     "state":"Indiana",
+     "population":"6,619,000",
+     "capital":"Indianapolis",
+     "largestCity":"Indianapolis"
+  },
+  {
+     "state":"Tennessee",
+     "population":"6,600,000",
+     "capital":"Nashville",
+     "largestCity":"Memphis"
+  },
+  {
+     "state":"Missouri",
+     "population":"6,084,000",
+     "capital":"Jefferson City",
+     "largestCity":"Kansas City"
+  },
+  {
+     "state":"Maryland",
+     "population":"6,006,000",
+     "capital":"Annapolis",
+     "largestCity":"Baltimore"
+  },
+  {
+     "state":"Wisconsin",
+     "population":"5,771,000",
+     "capital":"Madison",
+     "largestCity":"Milwaukee"
+  },
+  {
+     "state":"Minnesota",
+     "population":"5,489,000",
+     "capital":"St. Paul",
+     "largestCity":"Minneapolis"
+  },
+  {
+     "state":"Colorado",
+     "population":"5,456,500",
+     "capital":"Denver",
+     "largestCity":"Denver"
+  },
+  {
+     "state":"South Carolina",
+     "population":"4,896,000",
+     "capital":"Columbia",
+     "largestCity":"Columbia"
+  },
+  {
+     "state":"Alabama",
+     "population":"4,859,000",
+     "capital":"Montgomery",
+     "largestCity":"Birmingham"
+  },
+  {
+     "state":"Louisiana",
+     "population":"4,671,000",
+     "capital":"Baton Rouge",
+     "largestCity":"New Orleans"
+  },
+  {
+     "state":"Kentucky",
+     "population":"4,425,000",
+     "capital":"Frankfort",
+     "largestCity":"Louisville"
+  },
+  {
+     "state":"Oregon",
+     "population":"4,029,000",
+     "capital":"Salem",
+     "largestCity":"Portland"
+  },
+  {
+     "state":"Oklahoma",
+     "population":"3,911,000",
+     "capital":"Oklahoma City",
+     "largestCity":"Oklahoma City"
+  },
+  {
+     "state":"Connecticut",
+     "population":"3,590,000",
+     "capital":"Hartford",
+     "largestCity":"Bridgeport"
+  },
+  {
+     "state":"Iowa",
+     "population":"3,124,000",
+     "capital":"Des Moines",
+     "largestCity":"Des Moines"
+  },
+  {
+     "state":"Utah",
+     "population":"2,996,000",
+     "capital":"Salt Lake City",
+     "largestCity":"Salt Lake City"
+  },
+  {
+     "state":"Mississippi",
+     "population":"2,992,000",
+     "capital":"Jackson",
+     "largestCity":"Jackson"
+  },
+  {
+     "state":"Arkansas",
+     "population":"2,978,000",
+     "capital":"Little Rock",
+     "largestCity":"Little Rock"
+  },
+  {
+     "state":"Kansas",
+     "population":"2,911,000",
+     "capital":"Topeka",
+     "largestCity":"Wichita"
+  },
+  {
+     "state":"Nevada",
+     "population":"2,891,000",
+     "capital":"Carson City",
+     "largestCity":"Las Vegas"
+  },
+  {
+     "state":"New Mexico",
+     "population":"2,085,000",
+     "capital":"Santa Fe",
+     "largestCity":"Albuquerque"
+  },
+  {
+     "state":"Nebraska",
+     "population":"1,896,000",
+     "capital":"Lincoln",
+     "largestCity":"Omaha"
+  },
+  {
+     "state":"West Virginia",
+     "population":"1,844,000",
+     "capital":"Charleston",
+     "largestCity":"Charleston"
+  },
+  {
+     "state":"Idaho",
+     "population":"1,655,000",
+     "capital":"Boise City",
+     "largestCity":"Boise City"
+  },
+  {
+     "state":"Hawaii",
+     "population":"1,431,000",
+     "capital":"Honolulu",
+     "largestCity":"Honolulu"
+  },
+  {
+     "state":"New Hampshire",
+     "population":"1,330,000",
+     "capital":"Concord",
+     "largestCity":"Manchester"
+  },
+  {
+     "state":"Maine",
+     "population":"1,329,000",
+     "capital":"Augusta",
+     "largestCity":"Portland"
+  },
+  {
+     "state":"Rhode Island",
+     "population":"1,056,000",
+     "capital":"Providence",
+     "largestCity":"Providence"
+  },
+  {
+     "state":"Montana",
+     "population":"1,031,000",
+     "capital":"Helena",
+     "largestCity":"Billings"
+  },
+  {
+     "state":"Delaware",
+     "population":"946,000",
+     "capital":"Dover",
+     "largestCity":"Wilmington"
+  },
+  {
+     "state":"South Dakota",
+     "population":"858,500",
+     "capital":"Pierre",
+     "largestCity":"Sioux Falls"
+  },
+  {
+     "state":"North Dakota",
+     "population":"757,000",
+     "capital":"Bismarck",
+     "largestCity":"Fargo"
+  },
+  {
+     "state":"Alaska",
+     "population":"738,400",
+     "capital":"Juneau",
+     "largestCity":"Anchorage"
+  },
+  {
+     "state":"Vermont",
+     "population":"624,600",
+     "capital":"Montpelier",
+     "largestCity":"Burlington"
+  },
+  {
+     "state":"Wyoming",
+     "population":"585,500",
+     "capital":"Cheyenne",
+     "largestCity":"Cheyenne"
+  }
+]

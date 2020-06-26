@@ -7,7 +7,7 @@ const states = require('./states.json');
 // This will contain the new set of records for generating a new csv file.
 let newRecord = [];
 
-fs.createReadStream(path.resolve(__dirname, '.', 'contacts.csv'))
+fs.createReadStream(path.resolve(__dirname, '.', 'contacts.tsv'))
   .pipe(fcsv.parse({ headers: true }))
   .on('error', error => console.error(error))
   .on('data', row => createNewRow(row))
@@ -47,3 +47,4 @@ const generateNewFile = rowCount => {
     .on('error', error => console.log('Something went wrong while trying to generate new-contacts.csv', error))
     .on('finish', () => console.log('new-contacts.csv has been successfully generated'));
 };
+
